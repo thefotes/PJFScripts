@@ -6,7 +6,7 @@ read -e -p "Enter path to Xcode project: " FILES
 
 eval FILES=$FILES
 
-for f in $FILES/*.{h,m}
+find "$FILES" -type f \( -name "*.h" -or -name "*.m" \) | while read -r f;
 do
 	MYVAR=$(sed -n '/^#import/p' "$f" | uniq -c | sed -n '/[2-9] #import/p' | sort -nr)
 	if [ -n "$MYVAR" ]; then
