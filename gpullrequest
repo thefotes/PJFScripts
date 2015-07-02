@@ -1,0 +1,11 @@
+#!/bin/bash
+
+current_branch=$(git symbolic-ref --short -q HEAD)
+
+if [[ -n $current_branch ]]; then
+	git checkout develop
+	git pull origin develop
+	git checkout "$current_branch"
+	git rebase develop
+fi
+
