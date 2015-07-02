@@ -1,9 +1,8 @@
 #!/bin/bash
 
-if [[ $# == 0 ]]
-then 
-	echo 'You are stupid'
-	exit 1
+if [[ -n $1 ]]; then
+	git add --all
+	git commit -m "$1"
+else
+	echo "Must use a non null commit message"
 fi
-
-git commit -am "$*"
