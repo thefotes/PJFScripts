@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Delete branch locally, then prune the remotes
+# Delete all branches that have been merged into current head, then prune the remotes
 
-git branch -D $1
+git branch --merged | grep -v "\*" | xargs -n 1 git branch -d
 git fetch -p
