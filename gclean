@@ -1,0 +1,3 @@
+#!/bin/bash
+
+find .git -name '*conflicted*' -exec rm -f {} \;
