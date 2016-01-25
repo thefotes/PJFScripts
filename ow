@@ -1,0 +1,14 @@
+#!/bin/bash
+
+set -e
+
+xcodeproj=`find . -maxdepth 1 -name "*.xcodeproj"`
+proj_name=`echo $xcodeproj | sed 's/.\///g' | sed 's/.xcodeproj//g'`
+xcworkspace=`find . -maxdepth 1 -name "$proj_name.xcworkspace"`
+
+if [[ ! -z $xcworkspace && -e $xcworkspace ]]; then
+    open $xcworkspace
+else
+    open $xcodeproj
+fi
+
