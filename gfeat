@@ -14,8 +14,3 @@ def create_new_branch():
 
 create_new_branch()
 
-
-
-		
-
-			

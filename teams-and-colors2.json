@@ -1,0 +1,3167 @@
+[
+    {
+        "colors": [
+            "#FFFFFF",
+            "#0061AA"
+        ],
+        "league": "ncaa",
+        "name": "Air Force Falcons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#C29C41",
+            "#000E41"
+        ],
+        "league": "ncaa",
+        "name": "Akron Zips"
+    },
+    {
+        "colors": [
+            "#CACCCE",
+            "#FFFFFF",
+            "#A80532"
+        ],
+        "league": "ncaa",
+        "name": "Alabama Crimson Tide"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#750000"
+        ],
+        "league": "ncaa",
+        "name": "Alabama A&M; Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#FECB09"
+        ],
+        "league": "ncaa",
+        "name": "Alabama State Hornets"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FCBB0D",
+            "#3D2777"
+        ],
+        "league": "ncaa",
+        "name": "Albany Great Danes"
+    },
+    {
+        "colors": [
+            "#FCF5BA",
+            "#FFFFFF",
+            "#42094A"
+        ],
+        "league": "ncaa",
+        "name": "Alcorn State Braves"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#143D8D",
+            "#C41130"
+        ],
+        "league": "ncaa",
+        "name": "American University Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFC520",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Appalachian State Mountaineers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#BB003A",
+            "#003559"
+        ],
+        "league": "ncaa",
+        "name": "Arizona Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FEC927",
+            "#96203D"
+        ],
+        "league": "ncaa",
+        "name": "Arizona State Sun Devils"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#CD1041"
+        ],
+        "league": "ncaa",
+        "name": "Arkansas Razorbacks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EEBB00",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Arkansas Pine-Bluff Golden Lions"
+    },
+    {
+        "colors": [
+            "#C8C7C7",
+            "#231F20",
+            "#FFFFFF",
+            "#ED1B2E"
+        ],
+        "league": "ncaa",
+        "name": "Arkansas State Red Wolves"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#AD0000"
+        ],
+        "league": "ncaa",
+        "name": "Arkansas-Little Rock Trojans"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#D19D00"
+        ],
+        "league": "ncaa",
+        "name": "Army Black Knights"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FE3300",
+            "#172240"
+        ],
+        "league": "ncaa",
+        "name": "Auburn Tigers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#8E0B0B"
+        ],
+        "league": "ncaa",
+        "name": "Austin Peay Governors"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#DA0000"
+        ],
+        "league": "ncaa",
+        "name": "Ball State Cardinals"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFC227",
+            "#008649"
+        ],
+        "league": "ncaa",
+        "name": "Baylor Bears"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E82645",
+            "#2A3F76"
+        ],
+        "league": "ncaa",
+        "name": "Belmont Bruins"
+    },
+    {
+        "colors": [
+            "#FEB65F",
+            "#FFFFFF",
+            "#841B35"
+        ],
+        "league": "ncaa",
+        "name": "Bethune-Cookman Wildcats"
+    },
+    {
+        "colors": [
+            "#B3B5B8",
+            "#FFFFFF",
+            "#006F53"
+        ],
+        "league": "ncaa",
+        "name": "Binghamton Bearcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F27E34",
+            "#2D4492"
+        ],
+        "league": "ncaa",
+        "name": "Boise State Broncos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EEE8B7",
+            "#000000",
+            "#821E1E"
+        ],
+        "league": "ncaa",
+        "name": "Boston College Eagles"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#DD072E"
+        ],
+        "league": "ncaa",
+        "name": "Boston University Terriers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F5793F",
+            "#4E2400"
+        ],
+        "league": "ncaa",
+        "name": "Bowling Green Falcons"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FF151A"
+        ],
+        "league": "ncaa",
+        "name": "Bradley Braves"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#002D62"
+        ],
+        "league": "ncaa",
+        "name": "Brigham Young Cougars"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#8A1E04",
+            "#543019"
+        ],
+        "league": "ncaa",
+        "name": "Brown Bears"
+    },
+    {
+        "colors": [
+            "#A59474",
+            "#231F20",
+            "#702D07"
+        ],
+        "league": "ncaa",
+        "name": "Bryant University Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FF7000",
+            "#000064"
+        ],
+        "league": "ncaa",
+        "name": "Bucknell Bison"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#0068B4"
+        ],
+        "league": "ncaa",
+        "name": "Buffalo Bulls"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#0D1361"
+        ],
+        "league": "ncaa",
+        "name": "Butler Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFF1D0",
+            "#123C31"
+        ],
+        "league": "ncaa",
+        "name": "Cal Poly Mustangs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD204",
+            "#005DAB"
+        ],
+        "league": "ncaa",
+        "name": "Cal State Bakersfield Roadrunners"
+    },
+    {
+        "colors": [
+            "#F68F1E",
+            "#FFFFFF",
+            "#003768"
+        ],
+        "league": "ncaa",
+        "name": "Cal State Fullerton Titans"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#CD1041"
+        ],
+        "league": "ncaa",
+        "name": "Cal State Northridge Matadors"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFDE30",
+            "#003768"
+        ],
+        "league": "ncaa",
+        "name": "California Golden Bears"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FF8931",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Campbell Fighting Camels"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EEB211",
+            "#002859"
+        ],
+        "league": "ncaa",
+        "name": "Canisius Golden Griffins"
+    },
+    {
+        "colors": [
+            "#161515",
+            "#FFFFFF",
+            "#A20B36"
+        ],
+        "league": "ncaa",
+        "name": "Centenary Gentlemen"
+    },
+    {
+        "colors": [
+            "#939BA1",
+            "#FFFFFF",
+            "#4F2683"
+        ],
+        "league": "ncaa",
+        "name": "Central Arkansas Bears"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#1B49A2"
+        ],
+        "league": "ncaa",
+        "name": "Central Connecticut State Blue Devils"
+    },
+    {
+        "colors": [
+            "#E2A253",
+            "#FFFFFF",
+            "#780006"
+        ],
+        "league": "ncaa",
+        "name": "Central Michigan Chippewas"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#6A0018",
+            "#B5A172"
+        ],
+        "league": "ncaa",
+        "name": "Charleston Cougars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00447C"
+        ],
+        "league": "ncaa",
+        "name": "Charleston Southern Buccaneers"
+    },
+    {
+        "colors": [
+            "#949431",
+            "#FFFFFF",
+            "#006331"
+        ],
+        "league": "ncaa",
+        "name": "Charlotte 49ers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00437B",
+            "#EEB311"
+        ],
+        "league": "ncaa",
+        "name": "Chattanooga Mocs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#006700"
+        ],
+        "league": "ncaa",
+        "name": "Chicago State Cougars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FD0026",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Cincinnati Bearcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#002B5C"
+        ],
+        "league": "ncaa",
+        "name": "Citadel Bulldogs"
+    },
+    {
+        "colors": [
+            "#441F6F",
+            "#FFFFFF",
+            "#F06014"
+        ],
+        "league": "ncaa",
+        "name": "Clemson Tigers"
+    },
+    {
+        "colors": [
+            "#A7A9AC",
+            "#231F20",
+            "#FFFFFF",
+            "#00573D"
+        ],
+        "league": "ncaa",
+        "name": "Cleveland State Vikings"
+    },
+    {
+        "colors": [
+            "#D59C3A",
+            "#373434",
+            "#FFFFFF",
+            "#009297"
+        ],
+        "league": "ncaa",
+        "name": "Coastal Carolina Chanticleers"
+    },
+    {
+        "colors": [
+            "#241F20",
+            "#FFFFFF",
+            "#8B011D"
+        ],
+        "league": "ncaa",
+        "name": "Colgate Raiders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#D9C994"
+        ],
+        "league": "ncaa",
+        "name": "Colorado Buffaloes"
+    },
+    {
+        "colors": [
+            "#F8E793",
+            "#000000",
+            "#FFFFFF",
+            "#008C75"
+        ],
+        "league": "ncaa",
+        "name": "Colorado State Rams"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#004B85",
+            "#7CC2F1"
+        ],
+        "league": "ncaa",
+        "name": "Columbia Lions"
+    },
+    {
+        "colors": [
+            "#B2B2AE",
+            "#FFFFFF",
+            "#0A1D5A"
+        ],
+        "league": "ncaa",
+        "name": "Connecticut Huskies"
+    },
+    {
+        "colors": [
+            "#FFF500",
+            "#FFFFFF",
+            "#2E3192"
+        ],
+        "league": "ncaa",
+        "name": "Coppin State Eagles"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#D60027"
+        ],
+        "league": "ncaa",
+        "name": "Cornell Big Red"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F2B43B",
+            "#192DAA"
+        ],
+        "league": "ncaa",
+        "name": "Creighton Bluejays"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#005730"
+        ],
+        "league": "ncaa",
+        "name": "Dartmouth Big Green"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E51937",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Davidson Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E70808",
+            "#151A66"
+        ],
+        "league": "ncaa",
+        "name": "Dayton Flyers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#100A04",
+            "#FFDD00",
+            "#01539B"
+        ],
+        "league": "ncaa",
+        "name": "Delaware Fightin Blue Hens"
+    },
+    {
+        "colors": [
+            "#261511",
+            "#FFFFFF",
+            "#01A9EF",
+            "#F11A2D"
+        ],
+        "league": "ncaa",
+        "name": "Delaware State Hornets"
+    },
+    {
+        "colors": [
+            "#AA976C",
+            "#98002E"
+        ],
+        "league": "ncaa",
+        "name": "Denver Pioneers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#BD0F10",
+            "#336698"
+        ],
+        "league": "ncaa",
+        "name": "DePaul Blue Demons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E51937",
+            "#1C64A4"
+        ],
+        "league": "ncaa",
+        "name": "Detroit Titans"
+    },
+    {
+        "colors": [
+            "#B4B6B8",
+            "#FFFFFF",
+            "#0053A0"
+        ],
+        "league": "ncaa",
+        "name": "Drake Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#FFDC3E",
+            "#010160"
+        ],
+        "league": "ncaa",
+        "name": "Drexel Dragons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#004C7D"
+        ],
+        "league": "ncaa",
+        "name": "Duke Blue Devils"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D31145",
+            "#002D62"
+        ],
+        "league": "ncaa",
+        "name": "Duquesne Dukes"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FFCE28",
+            "#4A1F68"
+        ],
+        "league": "ncaa",
+        "name": "East Carolina Pirates"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#171E23",
+            "#BE9434",
+            "#025BA3"
+        ],
+        "league": "ncaa",
+        "name": "East Tennessee State Buccaneers"
+    },
+    {
+        "colors": [
+            "#0675D0",
+            "#FFFFFF",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Eastern Illinois Panthers"
+    },
+    {
+        "colors": [
+            "#A7AAAB",
+            "#FFFFFF",
+            "#730B27"
+        ],
+        "league": "ncaa",
+        "name": "Eastern Kentucky Colonels"
+    },
+    {
+        "colors": [
+            "#7F7F7F",
+            "#FFFFFF",
+            "#0B5F24"
+        ],
+        "league": "ncaa",
+        "name": "Eastern Michigan Eagles"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#D72E34"
+        ],
+        "league": "ncaa",
+        "name": "Eastern Washington Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#9E0152",
+            "#AEA460",
+            "#040404"
+        ],
+        "league": "ncaa",
+        "name": "Elon Phoenix"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FF6B0F",
+            "#663399"
+        ],
+        "league": "ncaa",
+        "name": "Evansville Aces"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D4290F",
+            "#181111"
+        ],
+        "league": "ncaa",
+        "name": "Fairfield Stags"
+    },
+    {
+        "colors": [
+            "#B00C23",
+            "#FFFFFF",
+            "#004898"
+        ],
+        "league": "ncaa",
+        "name": "Fairleigh Dickinson Knights"
+    },
+    {
+        "colors": [
+            "#39734A",
+            "#FFFFFF",
+            "#FF4208",
+            "#2139CE"
+        ],
+        "league": "ncaa",
+        "name": "Florida Gators"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00B552",
+            "#F89728"
+        ],
+        "league": "ncaa",
+        "name": "Florida A&M; Rattlers"
+    },
+    {
+        "colors": [
+            "#CD1041",
+            "#FFFFFF",
+            "#004B85"
+        ],
+        "league": "ncaa",
+        "name": "Florida Atlantic Owls"
+    },
+    {
+        "colors": [
+            "#D1B07F",
+            "#FFFFFF",
+            "#009569",
+            "#702D07"
+        ],
+        "league": "ncaa",
+        "name": "Florida Gulf Coast Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#C5960B",
+            "#002D62"
+        ],
+        "league": "ncaa",
+        "name": "Florida International Golden Panthers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#A8936B",
+            "#900028"
+        ],
+        "league": "ncaa",
+        "name": "Florida State Seminoles"
+    },
+    {
+        "colors": [
+            "#1E1A1B",
+            "#FFFFFF",
+            "#830032"
+        ],
+        "league": "ncaa",
+        "name": "Fordham Rams"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E32F38",
+            "#00427A"
+        ],
+        "league": "ncaa",
+        "name": "Fresno State Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#3A1769"
+        ],
+        "league": "ncaa",
+        "name": "Furman Paladins"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#BF2C37"
+        ],
+        "league": "ncaa",
+        "name": "Gardner-Webb Runnin' Bulldogs"
+    },
+    {
+        "colors": [
+            "#01010C",
+            "#FFFFFF",
+            "#FBC52B",
+            "#006539"
+        ],
+        "league": "ncaa",
+        "name": "George Mason Patriots"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFB923",
+            "#063065"
+        ],
+        "league": "ncaa",
+        "name": "George Washington Colonials"
+    },
+    {
+        "colors": [
+            "#AC928A",
+            "#FFFFFF",
+            "#49487C"
+        ],
+        "league": "ncaa",
+        "name": "Georgetown Hoyas"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#A0000B"
+        ],
+        "league": "ncaa",
+        "name": "Georgia Bulldogs"
+    },
+    {
+        "colors": [
+            "#9DB7c4",
+            "#9B8348",
+            "#FFFFFF",
+            "#003775"
+        ],
+        "league": "ncaa",
+        "name": "Georgia Southern Eagles"
+    },
+    {
+        "colors": [
+            "#F8112B",
+            "#FFFFFF",
+            "#005DAA"
+        ],
+        "league": "ncaa",
+        "name": "Georgia State Panthers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FDB813",
+            "#160A06"
+        ],
+        "league": "ncaa",
+        "name": "Georgia Tech Yellow Jackets"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#DC272A",
+            "#2D2161"
+        ],
+        "league": "ncaa",
+        "name": "Gonzaga Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#101008",
+            "#F88400"
+        ],
+        "league": "ncaa",
+        "name": "Grambling State Tigers"
+    },
+    {
+        "colors": [
+            "#A7A9AC",
+            "#B20838",
+            "#FFFFFF",
+            "#006F51"
+        ],
+        "league": "ncaa",
+        "name": "Green Bay Phoenix"
+    },
+    {
+        "colors": [
+            "#E5B67D",
+            "#FFFFFF",
+            "#0067AC"
+        ],
+        "league": "ncaa",
+        "name": "Hampton Pirates"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#ED1B2E"
+        ],
+        "league": "ncaa",
+        "name": "Hartford Hawks"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#C41130"
+        ],
+        "league": "ncaa",
+        "name": "Harvard Crimson"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#004231"
+        ],
+        "league": "ncaa",
+        "name": "Hawaii Warriors"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#342B88",
+            "#AAB3B8"
+        ],
+        "league": "ncaa",
+        "name": "High Point Panthers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFCf1B",
+            "#0756A4"
+        ],
+        "league": "ncaa",
+        "name": "Hofstra Pride"
+    },
+    {
+        "colors": [
+            "#909095",
+            "#FFFFFF",
+            "#1B2154",
+            "#090909"
+        ],
+        "league": "ncaa",
+        "name": "Holy Cross Crusaders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#012259",
+            "#C90822"
+        ],
+        "league": "ncaa",
+        "name": "Houston Cougars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00529C",
+            "#702D07"
+        ],
+        "league": "ncaa",
+        "name": "Houston Baptist Huskies"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#09347A",
+            "#EE3A43"
+        ],
+        "league": "ncaa",
+        "name": "Howard Bison"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFCC13",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Idaho Vandals"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FAD001",
+            "#000000",
+            "#FF8400"
+        ],
+        "league": "ncaa",
+        "name": "Idaho State Bengals"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#1B4178",
+            "#F5873C"
+        ],
+        "league": "ncaa",
+        "name": "Illinois Fighting Illini"
+    },
+    {
+        "colors": [
+            "#FEE818",
+            "#FFFFFF",
+            "#010000",
+            "#E61731"
+        ],
+        "league": "ncaa",
+        "name": "Illinois State Redbirds"
+    },
+    {
+        "colors": [
+            "#FFE821",
+            "#FFFFFF",
+            "#DE3444",
+            "#234077"
+        ],
+        "league": "ncaa",
+        "name": "Illinois-Chicago Flames"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#A82B3D"
+        ],
+        "league": "ncaa",
+        "name": "Indiana Hoosiers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00669A"
+        ],
+        "league": "ncaa",
+        "name": "Indiana State Sycamores"
+    },
+    {
+        "colors": [
+            "#0F0E12",
+            "#FFFFFF",
+            "#FDC10D",
+            "#910126"
+        ],
+        "league": "ncaa",
+        "name": "Iona Gaels"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD700",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Iowa Hawkeyes"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FEC938",
+            "#840A2C"
+        ],
+        "league": "ncaa",
+        "name": "Iowa State Cyclones"
+    },
+    {
+        "colors": [
+            "#131111",
+            "#929497",
+            "#FFFFFF",
+            "#1B3F95"
+        ],
+        "league": "ncaa",
+        "name": "IPFW Mastodons"
+    },
+    {
+        "colors": [
+            "#011522",
+            "#FFFFFF",
+            "#DC973C",
+            "#A81F30"
+        ],
+        "league": "ncaa",
+        "name": "IUPUI Jaguars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#123297"
+        ],
+        "league": "ncaa",
+        "name": "Jackson State Tigers"
+    },
+    {
+        "colors": [
+            "#8B8B8B",
+            "#000000",
+            "#FFFFFF",
+            "#008568"
+        ],
+        "league": "ncaa",
+        "name": "Jacksonville Dolphins"
+    },
+    {
+        "colors": [
+            "#1D1819",
+            "#FFFFFF",
+            "#E53F40"
+        ],
+        "league": "ncaa",
+        "name": "Jacksonville State Gamecocks"
+    },
+    {
+        "colors": [
+            "#B3B5B8",
+            "#FFFFFF",
+            "#D5A10E",
+            "#263997"
+        ],
+        "league": "ncaa",
+        "name": "James Madison Dukes"
+    },
+    {
+        "colors": [
+            "#E51837",
+            "#FFD204",
+            "#FFFFFF",
+            "#006AB5"
+        ],
+        "league": "ncaa",
+        "name": "Kansas Jayhawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#633194"
+        ],
+        "league": "ncaa",
+        "name": "Kansas State Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F0B410",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "Kennesaw State Owls"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F7BD0A",
+            "#131149"
+        ],
+        "league": "ncaa",
+        "name": "Kent State Golden Flashes"
+    },
+    {
+        "colors": [
+            "#EBEBE4",
+            "#FFFFFF",
+            "#003399"
+        ],
+        "league": "ncaa",
+        "name": "Kentucky Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFF200",
+            "#000F4C"
+        ],
+        "league": "ncaa",
+        "name": "La Salle Explorers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#0B070B",
+            "#CDBDA3",
+            "#9A0024"
+        ],
+        "league": "ncaa",
+        "name": "Lafayette Leopards"
+    },
+    {
+        "colors": [
+            "#FCB131",
+            "#FFFFFF",
+            "#ED1B2E",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "Lamar Cardinals"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#653600",
+            "#CFAB7A",
+            "#994708"
+        ],
+        "league": "ncaa",
+        "name": "Lehigh Mountain Hawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#A70F00",
+            "#02298A"
+        ],
+        "league": "ncaa",
+        "name": "Liberty Flames"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#122A65"
+        ],
+        "league": "ncaa",
+        "name": "Lipscomb Bisons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFCC00",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Long Beach State 49ers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Long Island Blackbirds"
+    },
+    {
+        "colors": [
+            "#B9B9BB",
+            "#FFFFFF",
+            "#004990"
+        ],
+        "league": "ncaa",
+        "name": "Longwood Lancers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#ED1C24",
+            "#006AB5"
+        ],
+        "league": "ncaa",
+        "name": "Louisiana Tech Bulldogs"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#F4A42A",
+            "#FFFFFF",
+            "#D73347"
+        ],
+        "league": "ncaa",
+        "name": "Louisiana-Lafayette Ragin' Cajuns"
+    },
+    {
+        "colors": [
+            "#B38807",
+            "#FFFFFF",
+            "#98012E",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "Louisiana-Monroe Warhawks"
+    },
+    {
+        "colors": [
+            "#FFC010",
+            "#FFFFFF",
+            "#070707",
+            "#FD0B20"
+        ],
+        "league": "ncaa",
+        "name": "Louisville Cardinals"
+    },
+    {
+        "colors": [
+            "000000",
+            "#FFFFFF",
+            "#FBC312",
+            "#9E0E43"
+        ],
+        "league": "ncaa",
+        "name": "Loyola (IL) Ramblers"
+    },
+    {
+        "colors": [
+            "#DCDCDE",
+            "#000000",
+            "#FFFFFF",
+            "#016540"
+        ],
+        "league": "ncaa",
+        "name": "Loyola (MD) Greyhounds"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00314A",
+            "#8C0029"
+        ],
+        "league": "ncaa",
+        "name": "Loyola Marymount Lions"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FDB827",
+            "#33297B"
+        ],
+        "league": "ncaa",
+        "name": "LSU Tigers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#909090",
+            "#FFFFFF",
+            "#2E8DC4"
+        ],
+        "league": "ncaa",
+        "name": "Maine Black Bears"
+    },
+    {
+        "colors": [
+            "#DEDEDE",
+            "#FFFFFF",
+            "#528C39"
+        ],
+        "league": "ncaa",
+        "name": "Manhattan Jaspers"
+    },
+    {
+        "colors": [
+            "#210203",
+            "#FFFFFF",
+            "#EF1216"
+        ],
+        "league": "ncaa",
+        "name": "Marist Red Foxes"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FDB826",
+            "#002F78"
+        ],
+        "league": "ncaa",
+        "name": "Marquette Golden Eagles"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#01592F"
+        ],
+        "league": "ncaa",
+        "name": "Marshall Thundering Herd"
+    },
+    {
+        "colors": [
+            "#C68746",
+            "#000000",
+            "#FFFFFF",
+            "#D5002B"
+        ],
+        "league": "ncaa",
+        "name": "Maryland Terrapins"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#98012E"
+        ],
+        "league": "ncaa",
+        "name": "Maryland-Eastern Shore Hawks"
+    },
+    {
+        "colors": [
+            "#12090A",
+            "#FFFFFF",
+            "#9F011A"
+        ],
+        "league": "ncaa",
+        "name": "Massachusetts Minutemen"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00529C",
+            "#FFD51D"
+        ],
+        "league": "ncaa",
+        "name": "McNeese State Cowboys"
+    },
+    {
+        "colors": [
+            "#FEC003",
+            "#FFFFFF",
+            "#2A2A9B"
+        ],
+        "league": "ncaa",
+        "name": "Memphis Tigers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FF7F27"
+        ],
+        "league": "ncaa",
+        "name": "Mercer Bears"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E75C2D",
+            "#003E24"
+        ],
+        "league": "ncaa",
+        "name": "Miami (FL) Hurricanes"
+    },
+    {
+        "colors": [
+            "#3F7D91",
+            "#FFFFFF",
+            "#080808",
+            "#C60808"
+        ],
+        "league": "ncaa",
+        "name": "Miami (OH) RedHawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FAC417",
+            "#272341"
+        ],
+        "league": "ncaa",
+        "name": "Michigan Wolverines"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#1C453A"
+        ],
+        "league": "ncaa",
+        "name": "Michigan State Spartans"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#0079C2"
+        ],
+        "league": "ncaa",
+        "name": "Middle Tennessee Blue Raiders"
+    },
+    {
+        "colors": [
+            "#F0B432",
+            "#445266",
+            "#FFFFFF",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Milwaukee Panthers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFF63E",
+            "#7F011B"
+        ],
+        "league": "ncaa",
+        "name": "Minnesota Golden Gophers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FF002C",
+            "#002C91"
+        ],
+        "league": "ncaa",
+        "name": "Mississippi Rebels"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D1D5D8",
+            "#762123"
+        ],
+        "league": "ncaa",
+        "name": "Mississippi State Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#054105"
+        ],
+        "league": "ncaa",
+        "name": "Mississippi Valley State Delta Devils"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E8AF11",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "Missouri Tigers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#5F0000"
+        ],
+        "league": "ncaa",
+        "name": "Missouri State Bears"
+    },
+    {
+        "colors": [
+            "#D7D8D8",
+            "#FFFFFF",
+            "#051844"
+        ],
+        "league": "ncaa",
+        "name": "Monmouth Hawks"
+    },
+    {
+        "colors": [
+            "#181829",
+            "#FFFFFF",
+            "#751D4A"
+        ],
+        "league": "ncaa",
+        "name": "Montana Grizzlies"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D3AF7E",
+            "#003875"
+        ],
+        "league": "ncaa",
+        "name": "Montana State Bobcats"
+    },
+    {
+        "colors": [
+            "#040204",
+            "#FFD51D",
+            "#FFFFFF",
+            "#094FA3"
+        ],
+        "league": "ncaa",
+        "name": "Morehead State Eagles"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#F47937",
+            "#014786"
+        ],
+        "league": "ncaa",
+        "name": "Morgan State Bears"
+    },
+    {
+        "colors": [
+            "#A59260",
+            "#FFFFFF",
+            "#005596"
+        ],
+        "league": "ncaa",
+        "name": "Mount St. Mary's Mountaineers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFE000",
+            "#002148"
+        ],
+        "league": "ncaa",
+        "name": "Murray State Racers"
+    },
+    {
+        "colors": [
+            "#CACCCE",
+            "#FFFFFF",
+            "#002D6D",
+            "#EE3024"
+        ],
+        "league": "ncaa",
+        "name": "N.J.I.T Highlanders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FCBA29",
+            "#131630"
+        ],
+        "league": "ncaa",
+        "name": "Navy Midshipmen"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F20017"
+        ],
+        "league": "ncaa",
+        "name": "Nebraska Cornhuskers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#153E5F"
+        ],
+        "league": "ncaa",
+        "name": "Nevada Wolf Pack"
+    },
+    {
+        "colors": [
+            "#C3C4C6",
+            "#FFFFFF",
+            "#004990"
+        ],
+        "league": "ncaa",
+        "name": "New Hampshire Wildcats"
+    },
+    {
+        "colors": [
+            "#C4C4C4",
+            "#FFFFFF",
+            "#D41045",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "New Mexico Lobos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#221E1F",
+            "#891216"
+        ],
+        "league": "ncaa",
+        "name": "New Mexico State Aggies"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FD1A41",
+            "#FFFFFF",
+            "#2B3986"
+        ],
+        "league": "ncaa",
+        "name": "New Orleans Privateers"
+    },
+    {
+        "colors": [
+            "#201C1D",
+            "#FFFFFF",
+            "#69207E"
+        ],
+        "league": "ncaa",
+        "name": "Niagara Purple Eagles"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#C41230"
+        ],
+        "league": "ncaa",
+        "name": "Nicholls State Colonels"
+    },
+    {
+        "colors": [
+            "#F1C409",
+            "#FFFFFF",
+            "#046546"
+        ],
+        "league": "ncaa",
+        "name": "Norfolk State Spartans"
+    },
+    {
+        "colors": [
+            "#00275D",
+            "#FFFFFF",
+            "#98BFE5"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina Tar Heels"
+    },
+    {
+        "colors": [
+            "#FFFF63",
+            "#FFFFFF",
+            "#0505AA"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina A&T; Aggies"
+    },
+    {
+        "colors": [
+            "#8E9093",
+            "#FFFFFF",
+            "#1A1818",
+            "#880023"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina Central Eagles"
+    },
+    {
+        "colors": [
+            "#221E1F",
+            "#FFFFFF",
+            "#EF1216"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina State Wolfpack"
+    },
+    {
+        "colors": [
+            "#151112",
+            "#FFFFFF",
+            "#156199"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina-Asheville Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FDEE8B",
+            "#006561",
+            "#1D2F68"
+        ],
+        "league": "ncaa",
+        "name": "North Carolina-Wilmington Seahawks"
+    },
+    {
+        "colors": [
+            "#00A26B",
+            "#E22D33",
+            "#FFFFFF",
+            "#702D07"
+        ],
+        "league": "ncaa",
+        "name": "North Dakota Fighting Sioux"
+    },
+    {
+        "colors": [
+            "#221E1F",
+            "#FFFFFF",
+            "#FEBB1C",
+            "#01402A"
+        ],
+        "league": "ncaa",
+        "name": "North Dakota State Bison"
+    },
+    {
+        "colors": [
+            "#9F9E9D",
+            "#FFFFFF",
+            "#0A548D"
+        ],
+        "league": "ncaa",
+        "name": "North Florida Ospreys"
+    },
+    {
+        "colors": [
+            "#2D2327",
+            "#FFFFFF",
+            "#00853D"
+        ],
+        "league": "ncaa",
+        "name": "North Texas Mean Green"
+    },
+    {
+        "colors": [
+            "#1A1100",
+            "#FFFFFF",
+            "#CC0001"
+        ],
+        "league": "ncaa",
+        "name": "Northeastern Huskies"
+    },
+    {
+        "colors": [
+            "#FFD51F",
+            "#629181",
+            "#FFFFFF",
+            "#003976"
+        ],
+        "league": "ncaa",
+        "name": "Northern Arizona Lumberjacks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F9D245",
+            "#13558D"
+        ],
+        "league": "ncaa",
+        "name": "Northern Colorado Bears"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#0F0D0D",
+            "#F1122C"
+        ],
+        "league": "ncaa",
+        "name": "Northern Illinois Huskies"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E4AE2F",
+            "#473282"
+        ],
+        "league": "ncaa",
+        "name": "Northern Iowa Panthers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#393996"
+        ],
+        "league": "ncaa",
+        "name": "Northwestern Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F68428",
+            "#492F91"
+        ],
+        "league": "ncaa",
+        "name": "Northwestern State Demons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#BAA008",
+            "#00122B"
+        ],
+        "league": "ncaa",
+        "name": "Notre Dame Fighting Irish"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F5E0B6",
+            "#998448",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Oakland Golden Grizzlies"
+    },
+    {
+        "colors": [
+            "#313139",
+            "#E7CEAD",
+            "#FFFFFF",
+            "#295A29"
+        ],
+        "league": "ncaa",
+        "name": "Ohio Bobcats"
+    },
+    {
+        "colors": [
+            "#C5CCCF",
+            "#080808",
+            "#FFFFFF",
+            "#DE3121"
+        ],
+        "league": "ncaa",
+        "name": "Ohio State Buckeyes"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#BA0034"
+        ],
+        "league": "ncaa",
+        "name": "Oklahoma Sooners"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#FF6500"
+        ],
+        "league": "ncaa",
+        "name": "Oklahoma State Cowboys"
+    },
+    {
+        "colors": [
+            "#999DA0",
+            "#FFFFFF",
+            "#00507D"
+        ],
+        "league": "ncaa",
+        "name": "Old Dominion Monarchs"
+    },
+    {
+        "colors": [
+            "#D39B16",
+            "#FFFFFF",
+            "#002E70"
+        ],
+        "league": "ncaa",
+        "name": "Oral Roberts Golden Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F4E600",
+            "#044520"
+        ],
+        "league": "ncaa",
+        "name": "Oregon Ducks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#AE3800",
+            "#000203"
+        ],
+        "league": "ncaa",
+        "name": "Oregon State Beavers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#F47820"
+        ],
+        "league": "ncaa",
+        "name": "Pacific Tigers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00265D"
+        ],
+        "league": "ncaa",
+        "name": "Penn State Nittany Lions"
+    },
+    {
+        "colors": [
+            "#AC0218",
+            "#FFFFFF",
+            "#082A74"
+        ],
+        "league": "ncaa",
+        "name": "Pennsylvania Quakers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F58026",
+            "#003A72",
+            "#009C98"
+        ],
+        "league": "ncaa",
+        "name": "Pepperdine Waves"
+    },
+    {
+        "colors": [
+            "#242021",
+            "#FFFFFF",
+            "#003263"
+        ],
+        "league": "ncaa",
+        "name": "Pittsburgh Panthers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#0E034E"
+        ],
+        "league": "ncaa",
+        "name": "Portland Pilots"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#BFCFD8",
+            "#005E60"
+        ],
+        "league": "ncaa",
+        "name": "Portland State Vikings"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#181821",
+            "#FFBD29",
+            "#5A185C"
+        ],
+        "league": "ncaa",
+        "name": "Prairie View A&M; Panthers"
+    },
+    {
+        "colors": [
+            "#AA153B",
+            "#FFFFFF",
+            "#194896"
+        ],
+        "league": "ncaa",
+        "name": "Presbyterian Blue Hose"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#F9A13A"
+        ],
+        "league": "ncaa",
+        "name": "Princeton Tigers"
+    },
+    {
+        "colors": [
+            "#C4C4C4",
+            "#FFFFFF",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Providence Friars"
+    },
+    {
+        "colors": [
+            "#9FA3A6",
+            "#FFFFFF",
+            "#B89D29",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Purdue Boilermakers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#BA9000",
+            "#041B43"
+        ],
+        "league": "ncaa",
+        "name": "Quinnipiac Bobcats"
+    },
+    {
+        "colors": [
+            "#292B2A",
+            "#FFFFFF",
+            "#BC1515"
+        ],
+        "league": "ncaa",
+        "name": "Radford Highlanders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#003559",
+            "#3691C6"
+        ],
+        "league": "ncaa",
+        "name": "Rhode Island Rams"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#003D7D"
+        ],
+        "league": "ncaa",
+        "name": "Rice Owls"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#003256",
+            "#9E0712"
+        ],
+        "league": "ncaa",
+        "name": "Richmond Spiders"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#ABADB0",
+            "#FFFFFF",
+            "#A80532"
+        ],
+        "league": "ncaa",
+        "name": "Rider Broncs"
+    },
+    {
+        "colors": [
+            "#BEB9B4",
+            "#FFFFFF",
+            "#AF1C2E",
+            "#00214D"
+        ],
+        "league": "ncaa",
+        "name": "Robert Morris Colonials"
+    },
+    {
+        "colors": [
+            "#0E1112",
+            "#FFFFFF",
+            "#EE363D"
+        ],
+        "league": "ncaa",
+        "name": "Rutgers Scarlet Knights"
+    },
+    {
+        "colors": [
+            "#B4985A",
+            "#FFFFFF",
+            "#00573C"
+        ],
+        "league": "ncaa",
+        "name": "Sacramento State Hornets"
+    },
+    {
+        "colors": [
+            "#B1B3B6",
+            "#FFFFFF",
+            "#CE1040"
+        ],
+        "league": "ncaa",
+        "name": "Sacred Heart Pioneers"
+    },
+    {
+        "colors": [
+            "#B4B5B8",
+            "#FFFFFF",
+            "#0B0908",
+            "#C2071B"
+        ],
+        "league": "ncaa",
+        "name": "Saint Joseph's Hawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00539C"
+        ],
+        "league": "ncaa",
+        "name": "Saint Louis Billikens"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E51B24",
+            "#DCDCDB",
+            "#003768"
+        ],
+        "league": "ncaa",
+        "name": "Saint Mary's Gaels"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#F78F1E"
+        ],
+        "league": "ncaa",
+        "name": "Sam Houston State Bearkats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#C72D30",
+            "#D2D4D5",
+            "#005485"
+        ],
+        "league": "ncaa",
+        "name": "Samford Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#00275d",
+            "#2f99d4"
+        ],
+        "league": "ncaa",
+        "name": "San Diego Toreros"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#7C6642",
+            "#BF2C37",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "San Diego State Aztecs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFE13A",
+            "#22523F"
+        ],
+        "league": "ncaa",
+        "name": "San Francisco Dons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFC021",
+            "#005893"
+        ],
+        "league": "ncaa",
+        "name": "San Jose State Spartans"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#690B0B"
+        ],
+        "league": "ncaa",
+        "name": "Santa Clara Broncos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FF0000",
+            "#280298"
+        ],
+        "league": "ncaa",
+        "name": "Savannah State Tigers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#BF2E1A"
+        ],
+        "league": "ncaa",
+        "name": "Seattle Redhawks"
+    },
+    {
+        "colors": [
+            "#A2ABB2",
+            "#FFFFFF",
+            "#0857B1"
+        ],
+        "league": "ncaa",
+        "name": "Seton Hall Pirates"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD117",
+            "#037961"
+        ],
+        "league": "ncaa",
+        "name": "Siena Saints"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000004",
+            "#BC9B6A",
+            "#674B20"
+        ],
+        "league": "ncaa",
+        "name": "SIU-Edwardsville Cougars"
+    },
+    {
+        "colors": [
+            "#D11241",
+            "#FFFFFF",
+            "#003E7E"
+        ],
+        "league": "ncaa",
+        "name": "South Alabama Jaguars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#CD0000"
+        ],
+        "league": "ncaa",
+        "name": "South Carolina Gamecocks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#050305",
+            "#080D35",
+            "#7E1812"
+        ],
+        "league": "ncaa",
+        "name": "South Carolina State Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#B3B5B8",
+            "#231F20",
+            "#CD1241"
+        ],
+        "league": "ncaa",
+        "name": "South Dakota Coyotes"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFDE00",
+            "#005DAB"
+        ],
+        "league": "ncaa",
+        "name": "South Dakota State Jackrabbits"
+    },
+    {
+        "colors": [
+            "#A08B4D",
+            "#FFFFFF",
+            "#004A36"
+        ],
+        "league": "ncaa",
+        "name": "South Florida Bulls"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#E2373E"
+        ],
+        "league": "ncaa",
+        "name": "Southeast Missouri State Redhawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#F0B510",
+            "#007550"
+        ],
+        "league": "ncaa",
+        "name": "Southeastern Louisiana Lions"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#85283D"
+        ],
+        "league": "ncaa",
+        "name": "Southern Illinois Salukis"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E32F38"
+        ],
+        "league": "ncaa",
+        "name": "Southern Methodist Mustangs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#201C1D",
+            "#FFAA3C"
+        ],
+        "league": "ncaa",
+        "name": "Southern Miss Golden Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFCD02",
+            "#004B97"
+        ],
+        "league": "ncaa",
+        "name": "Southern University Jaguars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#050607",
+            "#D12947"
+        ],
+        "league": "ncaa",
+        "name": "Southern Utah Thunderbirds"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FEE8AB",
+            "#70261D"
+        ],
+        "league": "ncaa",
+        "name": "St. Bonaventure Bonnies"
+    },
+    {
+        "colors": [
+            "#A9070B",
+            "#FFFFFF",
+            "#113682"
+        ],
+        "league": "ncaa",
+        "name": "St. Francis (NY) Terriers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#1E1719",
+            "#F41650"
+        ],
+        "league": "ncaa",
+        "name": "St. Francis (PA) Red Flash"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#D31145"
+        ],
+        "league": "ncaa",
+        "name": "St. John's Red Storm"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#30C808",
+            "#004CC2"
+        ],
+        "league": "ncaa",
+        "name": "St. Peter's Peacocks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#A80532"
+        ],
+        "league": "ncaa",
+        "name": "Stanford Cardinal"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EE3A42",
+            "#393996"
+        ],
+        "league": "ncaa",
+        "name": "Stephen F. Austin Lumberjacks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#18581C"
+        ],
+        "league": "ncaa",
+        "name": "Stetson Hatters"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#B33A4E",
+            "#115F9A"
+        ],
+        "league": "ncaa",
+        "name": "Stony Brook Seawolves"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F37321",
+            "#002D62"
+        ],
+        "league": "ncaa",
+        "name": "Syracuse Orange"
+    },
+    {
+        "colors": [
+            "#1E1B1C",
+            "#FFFFFF",
+            "#EBEBEB",
+            "#3C377D"
+        ],
+        "league": "ncaa",
+        "name": "TCU Horned Frogs"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#A80532"
+        ],
+        "league": "ncaa",
+        "name": "Temple Owls"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EE9627"
+        ],
+        "league": "ncaa",
+        "name": "Tennessee Volunteers"
+    },
+    {
+        "colors": [
+            "#060607",
+            "#FFFFFF",
+            "#383C84"
+        ],
+        "league": "ncaa",
+        "name": "Tennessee State Tigers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFDE00",
+            "#5A4099"
+        ],
+        "league": "ncaa",
+        "name": "Tennessee Tech Golden Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000099",
+            "#FF6700"
+        ],
+        "league": "ncaa",
+        "name": "Tennessee-Martin Skyhawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EE7524"
+        ],
+        "league": "ncaa",
+        "name": "Texas Longhorns"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#5C0025"
+        ],
+        "league": "ncaa",
+        "name": "Texas A&M; Aggies"
+    },
+    {
+        "colors": [
+            "#008456",
+            "#FFFFFF",
+            "#007CC4",
+            "#014B80"
+        ],
+        "league": "ncaa",
+        "name": "Texas A&M-CC; Islanders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#6A0403"
+        ],
+        "league": "ncaa",
+        "name": "Texas Southern Tigers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#9B8449",
+            "#744143"
+        ],
+        "league": "ncaa",
+        "name": "Texas State Bobcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#C80025"
+        ],
+        "league": "ncaa",
+        "name": "Texas Tech Red Raiders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D92D36",
+            "#004B7C"
+        ],
+        "league": "ncaa",
+        "name": "Texas-Arlington Mavericks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#DC6000"
+        ],
+        "league": "ncaa",
+        "name": "Texas-Pan American Broncs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F47321",
+            "#002A5C"
+        ],
+        "league": "ncaa",
+        "name": "Texas-San Antonio Roadrunners"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD51D",
+            "#00488F"
+        ],
+        "league": "ncaa",
+        "name": "Toledo Rockets"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#1E1C1C",
+            "#FFC229"
+        ],
+        "league": "ncaa",
+        "name": "Towson Tigers"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#6E7272",
+            "#FFFFFF",
+            "#AE0210"
+        ],
+        "league": "ncaa",
+        "name": "Troy Trojans"
+    },
+    {
+        "colors": [
+            "#00A6eb",
+            "#6EA396",
+            "#FFFFFF",
+            "#005837"
+        ],
+        "league": "ncaa",
+        "name": "Tulane Green Wave"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#E21721",
+            "#FFFFFF",
+            "#004371"
+        ],
+        "league": "ncaa",
+        "name": "Tulsa Golden Hurricane"
+    },
+    {
+        "colors": [
+            "#E7BD05",
+            "#FFFFFF",
+            "#040504",
+            "#054338"
+        ],
+        "league": "ncaa",
+        "name": "UAB Blazers"
+    },
+    {
+        "colors": [
+            "#CCCCCD",
+            "#FFFFFF",
+            "#CB992B",
+            "#183563"
+        ],
+        "league": "ncaa",
+        "name": "UC Davis Aggies"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FBC22D",
+            "#002B5C"
+        ],
+        "league": "ncaa",
+        "name": "UC Irvine Anteaters"
+    },
+    {
+        "colors": [
+            "#247BC2",
+            "#FFFFFF",
+            "#CCA61F",
+            "#14234F"
+        ],
+        "league": "ncaa",
+        "name": "UC Riverside Highlanders"
+    },
+    {
+        "colors": [
+            "#FBCB55",
+            "#FFFFFF",
+            "#0160A8",
+            "#1D1160"
+        ],
+        "league": "ncaa",
+        "name": "UC Santa Barbara Gauchos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#B4985A",
+            "#231F20"
+        ],
+        "league": "ncaa",
+        "name": "UCF Knights"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#FFB325",
+            "#005C8E"
+        ],
+        "league": "ncaa",
+        "name": "UCLA Bruins"
+    },
+    {
+        "colors": [
+            "#AF8706",
+            "#FFFFFF",
+            "#FFC10E",
+            "#221F1F"
+        ],
+        "league": "ncaa",
+        "name": "UMBC Retrievers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#FFD204",
+            "#005486"
+        ],
+        "league": "ncaa",
+        "name": "UMKC Kangaroos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E6BE2A",
+            "#003559"
+        ],
+        "league": "ncaa",
+        "name": "UNC Greensboro Spartans"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#D50026",
+            "#231E1F"
+        ],
+        "league": "ncaa",
+        "name": "UNLV Rebels"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFAC33",
+            "#AE2531"
+        ],
+        "league": "ncaa",
+        "name": "USC Trojans"
+    },
+    {
+        "colors": [
+            "#231F20",
+            "#FFFFFF",
+            "#00703C",
+            "#702D07"
+        ],
+        "league": "ncaa",
+        "name": "USC Upstate Spartans"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#CD1041"
+        ],
+        "league": "ncaa",
+        "name": "Utah Utes"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#003263"
+        ],
+        "league": "ncaa",
+        "name": "Utah State Aggies"
+    },
+    {
+        "colors": [
+            "#C0A000",
+            "#FFFFFF",
+            "#E8D766",
+            "#004812"
+        ],
+        "league": "ncaa",
+        "name": "Utah Valley Wolverines"
+    },
+    {
+        "colors": [
+            "#C2BFBC",
+            "#FFFFFF",
+            "#F9783B",
+            "#002843"
+        ],
+        "league": "ncaa",
+        "name": "UTEP Miners"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD204",
+            "#794500"
+        ],
+        "league": "ncaa",
+        "name": "Valparaiso Crusaders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#BB8D09",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Vanderbilt Commodores"
+    },
+    {
+        "colors": [
+            "#030202",
+            "#FFFFFF",
+            "#FFCE0E",
+            "#013C24"
+        ],
+        "league": "ncaa",
+        "name": "Vermont Catamounts"
+    },
+    {
+        "colors": [
+            "#80FBFF",
+            "#FFFFFF",
+            "#123d7C"
+        ],
+        "league": "ncaa",
+        "name": "Villanova Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#EA4B0F",
+            "#00204E"
+        ],
+        "league": "ncaa",
+        "name": "Virginia Cavaliers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#7D7D7A"
+        ],
+        "league": "ncaa",
+        "name": "Virginia Commonwealth Rams"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFC527",
+            "#E52D37",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Virginia Military Institute Keydets"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FBB088",
+            "#74232D"
+        ],
+        "league": "ncaa",
+        "name": "Virginia Tech Hokies"
+    },
+    {
+        "colors": [
+            "#BABCBE",
+            "#FFFFFF",
+            "#00483A"
+        ],
+        "league": "ncaa",
+        "name": "Wagner Seahawks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#C49544",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Wake Forest Demon Deacons"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#E8D4A3",
+            "#2B2F64"
+        ],
+        "league": "ncaa",
+        "name": "Washington Huskies"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#97002F"
+        ],
+        "league": "ncaa",
+        "name": "Washington State Cougars"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#29086B"
+        ],
+        "league": "ncaa",
+        "name": "Weber State Wildcats"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#FFC600"
+        ],
+        "league": "ncaa",
+        "name": "West Virginia Mountaineers"
+    },
+    {
+        "colors": [
+            "#CFAB7A",
+            "#FFFFFF",
+            "#492F91"
+        ],
+        "league": "ncaa",
+        "name": "Western Carolina Catamounts"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#DFFF16",
+            "#6812BB"
+        ],
+        "league": "ncaa",
+        "name": "Western Illinois Leathernecks"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#010000",
+            "#F32026"
+        ],
+        "league": "ncaa",
+        "name": "Western Kentucky Hilltoppers"
+    },
+    {
+        "colors": [
+            "#1D1B1B",
+            "#B59966",
+            "#FFFFFF",
+            "#7E3E09"
+        ],
+        "league": "ncaa",
+        "name": "Western Michigan Broncos"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#F8D429",
+            "#101008"
+        ],
+        "league": "ncaa",
+        "name": "Wichita State Shockers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FDF71C",
+            "#103217"
+        ],
+        "league": "ncaa",
+        "name": "William & Mary Tribe"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFAF1E",
+            "#9E0B0E"
+        ],
+        "league": "ncaa",
+        "name": "Winthrop Eagles"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#A00000"
+        ],
+        "league": "ncaa",
+        "name": "Wisconsin Badgers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#FFD700",
+            "#000000"
+        ],
+        "league": "ncaa",
+        "name": "Wofford Terriers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#E9AF10",
+            "#006F53"
+        ],
+        "league": "ncaa",
+        "name": "Wright State Raiders"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#533B22"
+        ],
+        "league": "ncaa",
+        "name": "Wyoming Cowboys"
+    },
+    {
+        "colors": [
+            "#B0B1B6",
+            "#FFFFFF",
+            "#002144"
+        ],
+        "league": "ncaa",
+        "name": "Xavier Musketeers"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#040404",
+            "#004A81"
+        ],
+        "league": "ncaa",
+        "name": "Yale Bulldogs"
+    },
+    {
+        "colors": [
+            "#FFFFFF",
+            "#231F20",
+            "#E51937"
+        ],
+        "league": "ncaa",
+        "name": "Youngstown State Penguins"
+    }
+]

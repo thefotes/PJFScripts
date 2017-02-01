@@ -1,0 +1,5 @@
+# Sets delay to 0 when moving mouse to hidden dock
+defaults write com.apple.Dock autohide-delay -float 0 && killall Dock
+
+# Disables character accent menu, enables key repeats
+defaults write -g ApplePressAndHoldEnabled -bool false

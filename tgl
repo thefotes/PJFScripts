@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+~/.zshrc/gl -10 | more -RF
